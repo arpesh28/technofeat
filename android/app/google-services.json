@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "596812902236",
+    "project_id": "techno-features",
+    "storage_bucket": "techno-features.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596812902236:android:b1bfacd7e403e3c4435b99",
+        "android_client_info": {
+          "package_name": "com.technofeatures"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596812902236-mmg2ocdkvflur3tp7godkjgevb88i4i0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5VUwf_YGwoL7I0-Q0zA9pceZulgjv9mU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596812902236-mmg2ocdkvflur3tp7godkjgevb88i4i0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

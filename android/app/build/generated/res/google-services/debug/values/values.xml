@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">596812902236-mmg2ocdkvflur3tp7godkjgevb88i4i0.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">596812902236</string>
+    <string name="google_api_key" translatable="false">AIzaSyB5VUwf_YGwoL7I0-Q0zA9pceZulgjv9mU</string>
+    <string name="google_app_id" translatable="false">1:596812902236:android:b1bfacd7e403e3c4435b99</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB5VUwf_YGwoL7I0-Q0zA9pceZulgjv9mU</string>
+    <string name="google_storage_bucket" translatable="false">techno-features.appspot.com</string>
+    <string name="project_id" translatable="false">techno-features</string>
+</resources>

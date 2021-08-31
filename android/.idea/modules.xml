@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/technofeatures.iml" filepath="$PROJECT_DIR$/.idea/modules/technofeatures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/technofeatures.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/technofeatures.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1980429555/technofeatures.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1980429555/technofeatures.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2002126899/technofeatures.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-2002126899/technofeatures.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1611650876/technofeatures.react-native-firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/1611650876/technofeatures.react-native-firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/243425047/technofeatures.react-native-firebase_firestore.iml" filepath="$PROJECT_DIR$/.idea/modules/243425047/technofeatures.react-native-firebase_firestore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1521009223/technofeatures.react-native-firebase_functions.iml" filepath="$PROJECT_DIR$/.idea/modules/1521009223/technofeatures.react-native-firebase_functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2021212199/technofeatures.react-native-firebase_storage.iml" filepath="$PROJECT_DIR$/.idea/modules/2021212199/technofeatures.react-native-firebase_storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2094440854/technofeatures.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-2094440854/technofeatures.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-797573987/technofeatures.react-native-image-crop-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-797573987/technofeatures.react-native-image-crop-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1238105954/technofeatures.react-native-push-notification.iml" filepath="$PROJECT_DIR$/.idea/modules/1238105954/technofeatures.react-native-push-notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2061597613/technofeatures.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-2061597613/technofeatures.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2031050709/technofeatures.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-2031050709/technofeatures.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-531275348/technofeatures.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-531275348/technofeatures.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1522859165/technofeatures.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/1522859165/technofeatures.react-native-webview.iml" />
+    </modules>
+  </component>
+</project>

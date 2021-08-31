@@ -1,0 +1,14 @@
+com/testapp/MainApplication.java
+ com.technofeatures.MainApplication
+ com.technofeatures.MainApplication$1
+com/testapp/ReactNativeFlipper.java
+ com.technofeatures.ReactNativeFlipper
+ com.technofeatures.ReactNativeFlipper$1
+ com.technofeatures.ReactNativeFlipper$2
+ com.technofeatures.ReactNativeFlipper$2$1
+com/technofeatures/BuildConfig.java
+ com.technofeatures.BuildConfig
+com/testapp/MainActivity.java
+ com.technofeatures.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
